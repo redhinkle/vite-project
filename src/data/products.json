@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Burger",
+    "sku": "0001",
+    "price": "5.00",
+    "desc": "a half-pound hamburger grilled fresh to order",
+    "img": "public/food.jpg",
+    "tag": "main"
+  },
+  {
+    "title": "Milkshake",
+    "sku": "0002",
+    "price": "4.99",
+    "desc": "Homemade milkshake available in 3 flavors",
+    "options": ["Chocolate", "Vanilla", "Strawberry"],
+    "img": "public/food.jpg",
+    "tag": "drink"
+  },
+  {
+    "title": "Fries",
+    "sku": "0003",
+    "price": "2.69",
+    "desc": "House made fries peeled and cut daily",
+    "img": "public/food.jpg",
+    "tag": "side"
+  },
+  {
+    "title": "Pizza Slice",
+    "sku": "0004",
+    "price": "3.99",
+    "desc": "Classic pizza available in 3 different varieties",
+    "options": ["Cheese", "Pepperoni", "Vegetarian"],
+    "img": "public/food.jpg",
+    "tag": "main"
+  },
+  {
+    "title": "Combo Meal",
+    "sku": "0005",
+    "price": "6.79",
+    "desc": "Comes with one main and a side of fries",
+    "img": "public/food.jpg",
+    "tag": "meal"
+  }
+]

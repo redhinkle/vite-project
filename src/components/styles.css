@@ -1,0 +1,31 @@
+#product {
+  color: forestgreen;
+}
+
+.products {
+  padding: 20px 10px;
+  background-color: rgb(237, 241, 245);
+  border: 2px solid midnightblue;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px auto;
+  justify-content: space-around;
+}
+
+#productList {
+  display: flex;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  list-style-type: none;
+  font-size: 0.75em;
+}
+
+li {
+  padding: 0 10px;
+}
